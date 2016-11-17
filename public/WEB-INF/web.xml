@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans>
+
+<context local="this"></context>
+<requirement file="test1.php"></requirement>
+<classe classname="test1"></classe>
+
+<context local="this"></context>
+<requirement file="test2.php"></requirement>
+<classe classname="test2"></classe>
+
+<context local="brunonimos.devs\beans\"></context>
+<requirement file="test3.php"></requirement>
+<classe classname="test3"></classe>
+
+</beans>
