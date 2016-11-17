@@ -2,7 +2,7 @@
 
 ##Introduction
 
--A PHP implementation of Java Beans;
+A PHP implementation of Java Beans.
 
 -All classes can be used as dependency;
 
